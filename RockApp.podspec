@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.summary       = 'RockApp summary'
   spec.description   = 'RockApp description'
   spec.homepage      = 'https://github.com/wefit-arlan-biati/rock-app-podspec.git'
-  spec.author        = { 'Gabriel Milhomem Cunha' => 'arlan.biati@wefit.com.br' }
+  spec.author        = { 'Arlan Gustavo Biati' => 'arlan.biati@wefit.com.br' }
   spec.license       = { :type => 'MIT', :file => 'LICENSE' }
   spec.source        = { :git => 'https://github.com/wefit-arlan-biati/rock-app-podspec.git', :tag => spec.version.to_s }
 
