@@ -12,9 +12,9 @@ Pod::Spec.new do |spec|
   spec.platform      = :ios, '15.1'
 
   spec.ios.vendored_frameworks = [
-    "Frameworks-navigation/hermes.xcframework",
-    "Frameworks-navigation/ReactBrownfield.xcframework",
-    "Frameworks-navigation/TestRockAppReact.xcframework",
+    "Frameworks/hermes.xcframework",
+    "Frameworks/ReactBrownfield.xcframework",
+    "Frameworks/TestRockAppReact.xcframework",
   ]
 
 end
