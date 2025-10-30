@@ -1,6 +1,0 @@
-framework module TestRockAppReact {
-  umbrella header "TestRockAppReact.h"
-  export *
-
-  module * { export * }
-}
